@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Midnight blue profile README -->
 
-<!--
-**Hawk-is-dev/Hawk-is-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:102A56,100:1D4ED8&height=190&section=header&text=HAWK&fontSize=58&fontColor=EAF2FF&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Builder%20%7C%20Always%20Learning&descSize=16&descAlignY=58" width="100%" alt="HAWK profile banner" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hawk-is-dev&style=for-the-badge&color=1D4ED8&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Hawk-is-dev?style=for-the-badge&color=102A56&labelColor=050816&label=FOLLOWERS" alt="GitHub followers" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Building projects, bots, and useful automations.
+- Exploring software development and open-source tools.
+- Learning by experimenting, improving, and shipping projects.
+- Interested in Python, Go, Linux, and developer tooling.
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,git,github,linux,vscode&theme=dark" alt="Tech stack icons" />
+</div>
+
+## GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hawk-is-dev&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1&icon_color=3B82F6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawk-is-dev&layout=compact&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=CBD5E1" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Hawk-is-dev&hide_border=true&background=050816&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=EAF2FF&sideNums=EAF2FF&dates=94A3B8" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>Stay focused. Keep building. Let the work speak.</i>
+  <br/><br/>
+  <a href="https://github.com/Hawk-is-dev">GitHub Profile</a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:102A56,100:050816&height=100&section=footer" width="100%" alt="" />
+</div>
