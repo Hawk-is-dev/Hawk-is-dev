@@ -11,7 +11,7 @@
   <br/>
 
   <a href="https://t.me/izoph">
-    <img src="https://github.com/Hawk-is-dev.png" width="150" height="150" alt="HAWK profile picture" style="border-radius:50%; object-fit:cover;" />
+    <img src="https://images.weserv.nl/?url=github.com%2FHawk-is-dev.png&mask=circle" width="150" height="150" alt="HAWK circular profile picture" />
     <br/>
     <img src="https://img.shields.io/badge/HAWK-@izoph-111827?style=for-the-badge&logo=telegram&logoColor=white&labelColor=312E81&color=1D4ED8" alt="Open HAWK on Telegram" />
   </a>
