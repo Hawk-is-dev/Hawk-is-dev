@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-labelledby="title desc">
   <title id="title">HAWK's GitHub Stats</title>
-  <desc id="desc">Custom midnight-themed GitHub statistics banner with handwritten-style typography.</desc>
+  <desc id="desc">Custom midnight-themed GitHub statistics banner with handwritten-style typography and a HAWK monogram.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#080b1b"/><stop offset=".55" stop-color="#15112b"/><stop offset="1" stop-color="#252052"/>
@@ -22,10 +22,8 @@
     <text x="52" y="190">✧  Code • Create • Repeat</text>
     <text x="52" y="224">☾  Quiet mind, midnight energy</text>
   </g>
-  <g clip-path="url(#avatar)">
-    <image href="https://github.com/Hawk-is-dev.png" x="634" y="69" width="152" height="152" preserveAspectRatio="xMidYMid slice"/>
-  </g>
-  <circle cx="710" cy="145" r="79" fill="none" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="710" cy="145" r="76" fill="#101327" stroke="url(#accent)" stroke-width="4"/>
+  <text x="710" y="158" fill="url(#accent)" font-family="cursive" font-style="italic" font-size="42" text-anchor="middle">HAWK</text>
   <text x="710" y="253" fill="#f5d0fe" font-family="cursive" font-size="24" text-anchor="middle">✧ H A W K ✧</text>
   <text x="852" y="282" fill="#94a3b8" font-family="Georgia,serif" font-size="12" text-anchor="end">github.com/Hawk-is-dev</text>
 </svg>
