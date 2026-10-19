@@ -60,15 +60,15 @@
   <img src="https://streak-stats.demolab.com?user=Hawk-is-dev&hide_border=true&background=050816&ring=818CF8&fire=60A5FA&currStreakLabel=C4B5FD&sideLabels=CBD5E1&currStreakNum=EAF2FF&sideNums=EAF2FF&dates=94A3B8" alt="GitHub streak" />
 </div>
 
-## 📊 HAWK’s GitHub Stats
+## 🖋️ 𝓗𝓐𝓦𝓚’𝓼 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hawk-is-dev&show_icons=true&hide_border=true&bg_color=050816&title_color=818CF8&text_color=CBD5E1&icon_color=60A5FA&include_all_commits=true" width="49%" alt="HAWK GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawk-is-dev&layout=compact&hide_border=true&bg_color=050816&title_color=818CF8&text_color=CBD5E1" width="41%" alt="HAWK most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hawk-is-dev&show_icons=true&hide_border=true&bg_color=050816&title_color=E879F9&text_color=CBD5E1&icon_color=60A5FA&include_all_commits=true&custom_title=𝓗𝓐𝓦𝓚%27𝓼%20𝓖𝓲𝓽𝓗𝓾𝓫%20𝓢𝓽𝓪𝓽𝓼" width="49%" alt="HAWK GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawk-is-dev&layout=compact&hide_border=true&bg_color=050816&title_color=E879F9&text_color=CBD5E1&custom_title=𝓜𝓸𝓼𝓽%20𝓤𝓼𝓮𝓭%20𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼" width="41%" alt="HAWK most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hawk-is-dev&bg_color=050816&color=CBD5E1&line=818CF8&point=60A5FA&area=true&hide_border=true" width="96%" alt="HAWK contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hawk-is-dev&bg_color=050816&color=CBD5E1&line=E879F9&point=60A5FA&area=true&hide_border=true&custom_title=𝓗𝓐𝓦𝓚%20%E2%80%A2%20𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷%20𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝔂" width="96%" alt="HAWK contribution activity graph" />
 </div>
 
 <div align="center">
